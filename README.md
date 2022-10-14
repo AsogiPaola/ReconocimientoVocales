@@ -23,7 +23,7 @@ Análisis
 
 A continuación, se observarán las gráficas de frecuencia que genera una voz masculina al decir las vocales, en la figura 2, en este caso se muestran las gráficas del sujeto N-1.
 
-<img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/sA.png" align="left" width="380"/> 
+<img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/sA.png" width="380"/> 
 <img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/sE.png" align="left" width="380"/> 
 <img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/sI.png" align="left" width="380"/> 
 <img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/sO.png" align="left" width="380"/> 
