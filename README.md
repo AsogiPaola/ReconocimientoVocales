@@ -27,7 +27,7 @@ A continuación, se observarán las gráficas de frecuencia que genera una voz m
 <img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/sE.png"/>
 <img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/sI.png"/>
 <img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/sO.png"/>
-<img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/sU.png"/>
+<img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/sU.png" align="left" height="48" width="48"/>
 
 
 
