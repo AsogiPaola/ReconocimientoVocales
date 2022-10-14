@@ -52,8 +52,8 @@ al realizar el análisis entre la voz femenina y la masculina se dedujo que la v
 
 Luego de haber realizado el análisis de las señales de las voces, se precedió aplicar a cada señal la FFT (Transformada de Fourier) en la figura 5. 
 
-<img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/TF9.png" align="left" width="380"/>
-<img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/TF9-2.png" width="380"/>
+<img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/TF9.png" align="left" width="580"/>
+<img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/TF9-2.png" align="right" width="380"/>
 
 Figura 5: FFT de las vocales pronunciadas por el sujeto N-9 
 
