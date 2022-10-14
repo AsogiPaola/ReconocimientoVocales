@@ -70,7 +70,13 @@ Luego de aplicar la FFT se realiza el espectrograma a cada señal, tomando los d
 
 Ya teniendo todos los espectrogramas se realizó un análisis de estos para sacar las características de las señales se prosiguió a sacar un promedio del valor máximo de cada matriz respectiva a cada vocal, luego de sacar el promedio se construye un rango en el que se encuentra cada vocal, un rango entre en el promedio del valor máximo, esta se tomará como una característica. Se puede observar en el cuadro 1. 
 
+<img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/TABLA1.png" width="380"/>
 
+Cuadro 1: Rangos de cada vocal Espectrograma 
 
+Como segunda y tercera característica se tomarán la media y la desviación estándar sacando promedios para luego de allí sacar un rango en el que se encuentra cada vocal, para generar la clasificación de cada una. 
 
+Luego de haber concluido cuales serían las características que se utilizarían, se prosiguió aplicarlas a todas las vocales, en la tabla se observan los valores respectivos de cada característica para el sujeto 1, en el cuadro 2 se puede observar. 
+
+<img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/TABLA2.png" width="380"/>
 
