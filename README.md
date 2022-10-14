@@ -45,6 +45,29 @@ Figura 3: Señales de la voz masculina ampliadas
 
 A continuación, se observan las gráficas de frecuencia que genera una voz femenina, en la figura 4, en este caso se muestran las gráficas del sujeto N-2. Se puede apreciar que la gráfica de cada vocal, al igual que las gráficas de voz masculina, tienen señales donde su amplitud varia, como en la vocal A la amplitud de la onda es mayor a la de las otras vocales, se puede ver que en las gráficas hay áreas donde la onda se marca más a comparación con las gráficas de la voz masculina, se cree que esto se debe al tono del sujeto.  
 
-<img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/SMUJER.png" width="380"/>
+<img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/SMUJER.png" width="480"/>
+Figura 4: Señal de las vocales pronunciadas por una mujer 
+
+al realizar el análisis entre la voz femenina y la masculina se dedujo que la voz femenina tiene mayor amplitud dado a que tiende a ser más aguda y la masculina más grave. 
+
+Luego de haber realizado el análisis de las señales de las voces, se precedió aplicar a cada señal la FFT (Transformada de Fourier) en la figura 5. 
+
+<img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/TF9.png" align="left" width="380"/>
+<img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/TF9-2.png" width="380"/>
+
+Figura 5: FFT de las vocales pronunciadas por el sujeto N-9 
+
+Se tomó los audios de sujeto N-9 se les aplico la FFT y se realizaron análisis donde se observó que la señal posee dos picos altos que se generan cuando el sujeto habla, en las gráficas se observa que las señales generan pico alto en 0.0 y al finalizar la onda, pero hay vocales que no generan el pico exactamente en ese punto, se piensa que esto se debe a que el sujeto al pronunciar estas vocales puedo haberlas dicho de una manera más larga de lo habitual.  
+
+Se cree que esa señal distorsionada que se encuentra en las FFT por fuera del pico alto o sobre la superficie es ruido, ya que los audios no fueron tomados en lugares libres de ruido externo, se piensa que este ruido puede generar que la señal no fea fina, si no que tienda a distorsionarse, un ejemplo claro de esto es la vocal A, donde pareciera que su señal tiene ruido y esto puede generar picos que no deberían estar. Se puede observar que la vocal más fina en este sujeto es la O, aunque presenta un poco de ruido, sin embargo, es la más limpia en este caso.  
+
+Luego de aplicar la FFT se realiza el espectrograma a cada señal, tomando los datos de cada matriz ya armada con los datos de la FFT, se cogió muestra por muestra para ejecutar el espectrograma; Ya obtenido el primer espectrograma se prosiguió a obtener el resto de los espectrogramas. En la figura 6 se puede apreciar uno de los espectrogramas 
+
+<img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/ESPECTOGRAM.png" width="380"/>
+
+Ya teniendo todos los espectrogramas se realizó un análisis de estos para sacar las características de las señales se prosiguió a sacar un promedio del valor máximo de cada matriz respectiva a cada vocal, luego de sacar el promedio se construye un rango en el que se encuentra cada vocal, un rango entre en el promedio del valor máximo, esta se tomará como una característica. Se puede observar en el cuadro 1. 
+
+
+
 
 
