@@ -4,7 +4,7 @@ Marco teórico
 
 El espectrograma es una herramienta primordial en el estudio de la comunicación acústica en vertebrados. Es básicamente una representación visual del sonido donde muestra la variación en energía, es decir, el poder de densidad espectral en los dominios de frecuencia y tiempo. Los espectrogramas permiten explorar de manera visual la variación acústica que se presenta en nuestro sistema de estudio, facilitando la distinción en las diferencias estructurales a pequeñas escalas temporales/espectrales que nuestros oídos no pueden detectar. El espectrograma se divide en tres dimensiones temporal, frecuencial y amplitud de la distribución de energía de una señal, que se pueden observar en la figura 1
 
-<img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/1.png"  align="middle" width="280"/>
+<img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/1.png" width="280"/>
 
 
 # Procedimiento 
@@ -23,11 +23,11 @@ Análisis
 
 A continuación, se observarán las gráficas de frecuencia que genera una voz masculina al decir las vocales, en la figura 2, en este caso se muestran las gráficas del sujeto N-1.
 
-<img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/sA.png"/>
-<img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/sE.png"/>
-<img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/sI.png"/>
-<img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/sO.png"/>
-<img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/sU.png"  width="48"/>
+<img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/sA.png" width="280"/>
+<img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/sE.png" width="280"/>
+<img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/sI.png" width="280"/>
+<img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/sO.png" width="280"/>
+<img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/sU.png" width="280"/>
 
 
 
