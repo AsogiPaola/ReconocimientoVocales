@@ -23,7 +23,7 @@ Análisis
 
 A continuación, se observarán las gráficas de frecuencia que genera una voz masculina al decir las vocales, en la figura 2, en este caso se muestran las gráficas del sujeto N-1.
 
-<img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/sA.png" width="380"/> <img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/sE.png" align="right" width="380"/> <img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/sI.png" width="380"/> <img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/sO.png" align="right" width="380"/> <img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/sU.png" width="380"/>
+<img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/sA.png" align="left"width="380"/> <img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/sE.png" align="left" width="380"/> <img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/sI.png" align="left"width="380"/> <img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/sO.png" align="left" width="380"/> <img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/sU.png" align="left"width="380"/>
 
 Figura 2: Señal de las vocales pronunciadas por un hombre. 
 
@@ -31,4 +31,4 @@ Se puede observar que la figura 2, de cada vocal tiene señales donde su amplitu
 
 Observándolas de cerca se puede observar que cada una lleva una secuencia diferente, unas son similares como la I y U, algunas son más finas que otras en este caso la vocal U y la A son más finas que el resto. Esto se puede observar en la figura 3. 
 
-<img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/SMa.png" align="right" width="380"/><img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/SME.png" align="right" width="380"/><img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/SMI.png" align="right" width="380"/><img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/SMO.png" align="right" width="380"/><img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/SMU.png" align="right" width="380"/>
+<img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/SMa.png" align="left" width="380"/><img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/SME.png"align="left" width="380"/><img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/SMI.png" align="left" width="380"/><img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/SMO.png" align="left" width="380"/><img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/SMU.png" align="left" width="380"/>
