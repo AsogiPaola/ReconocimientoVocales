@@ -40,3 +40,11 @@ Observándolas de cerca se puede observar que cada una lleva una secuencia difer
 <img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/SMI.png" align="left" width="380"/>
 <img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/SMO.png" align="left" width="380"/>
 <img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/SMU.png" width="380"/>
+
+Figura 3: Señales de la voz masculina ampliadas 
+
+A continuación, se observan las gráficas de frecuencia que genera una voz femenina, en la figura 4, en este caso se muestran las gráficas del sujeto N-2. Se puede apreciar que la gráfica de cada vocal, al igual que las gráficas de voz masculina, tienen señales donde su amplitud varia, como en la vocal A la amplitud de la onda es mayor a la de las otras vocales, se puede ver que en las gráficas hay áreas donde la onda se marca más a comparación con las gráficas de la voz masculina, se cree que esto se debe al tono del sujeto.  
+
+<img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/SMUJER.png" width="380"/>
+
+
