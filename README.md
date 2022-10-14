@@ -5,7 +5,7 @@ Marco teórico
 El espectrograma es una herramienta primordial en el estudio de la comunicación acústica en vertebrados. Es básicamente una representación visual del sonido donde muestra la variación en energía, es decir, el poder de densidad espectral en los dominios de frecuencia y tiempo. Los espectrogramas permiten explorar de manera visual la variación acústica que se presenta en nuestro sistema de estudio, facilitando la distinción en las diferencias estructurales a pequeñas escalas temporales/espectrales que nuestros oídos no pueden detectar. El espectrograma se divide en tres dimensiones temporal, frecuencial y amplitud de la distribución de energía de una señal, que se pueden observar en la figura 1
 
 <img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/1.png" width="280"/>
-
+Figura 1: Dimensiones de un espectrograma 
 
 # Procedimiento 
 
@@ -25,6 +25,10 @@ A continuación, se observarán las gráficas de frecuencia que genera una voz m
 
 <img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/sA.png" width="380"/> <img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/sE.png" align="right" width="380"/> <img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/sI.png" width="380"/> <img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/sO.png" align="right" width="380"/> <img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/sU.png" width="380"/>
 
+Figura 2: Señal de las vocales pronunciadas por un hombre. 
 
+Se puede observar que la figura 2, de cada vocal tiene señales donde su amplitud varia, por ejemplo, en la vocal U, la quinta grafica de la figura 2, la amplitud de la onda es mayor en comparación de las otras vocales, en todas estas podemos observar un área donde la onda no es tan marcada, se cree que esta puede ser producida por el micrófono o el eco que se puede generar por el ambiente en el que se grabó.  
 
+Observándolas de cerca se puede observar que cada una lleva una secuencia diferente, unas son similares como la I y U, algunas son más finas que otras en este caso la vocal U y la A son más finas que el resto. Esto se puede observar en la figura 3. 
 
+<img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/SMa.png" align="right" width="380"/><img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/SME.png" align="right" width="380"/><img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/SMI.png" align="right" width="380"/><img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/SMO.png" align="right" width="380"/><img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/SMU.png" align="right" width="380"/>
