@@ -55,6 +55,9 @@ Luego de haber realizado el análisis de las señales de las voces, se precedió
 <img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/TF9.png" align="left" width="580"/>
 <img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/TF9-2.png" align="right" width="380"/>
 
+
+
+
 Figura 5: FFT de las vocales pronunciadas por el sujeto N-9 
 
 Se tomó los audios de sujeto N-9 se les aplico la FFT y se realizaron análisis donde se observó que la señal posee dos picos altos que se generan cuando el sujeto habla, en las gráficas se observa que las señales generan pico alto en 0.0 y al finalizar la onda, pero hay vocales que no generan el pico exactamente en ese punto, se piensa que esto se debe a que el sujeto al pronunciar estas vocales puedo haberlas dicho de una manera más larga de lo habitual.  
