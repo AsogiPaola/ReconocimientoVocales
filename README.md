@@ -79,4 +79,8 @@ Como segunda y tercera característica se tomarán la media y la desviación est
 Luego de haber concluido cuales serían las características que se utilizarían, se prosiguió aplicarlas a todas las vocales, en la tabla se observan los valores respectivos de cada característica para el sujeto 1, en el cuadro 2 se puede observar. 
 
 <img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/TABLA2.png" width="380"/>
+Cuadro 2: Características de las 5 vocales 
 
+Luego de haber calculado las características, se procede hacer el clasificador se ponen las características, se ajustan la cantidad de datos en este caso se contaron con 100 datos, se genero la distribución de los puntos, luego se procedió aplicar el método de clasificación de Bayes, el clasificador por distancia euclidiana y Clasificadores por distancia de Mahalanobis, obteniendo la siguiente grafica que se encuentra el figura 7. 
+
+<img src="https://github.com/AsogiPaola/ReconocimientoVocales/blob/main/images/wI.png" width="380"/>
